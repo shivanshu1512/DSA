@@ -12,7 +12,6 @@ public:
                 count1 = 0;
             }
         }
-
         return ans; // n*n+1/2 also a formula which we can apply
         
     }
