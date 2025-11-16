@@ -3,7 +3,6 @@ public:
     long long countDistinct(long long n) {
         string s = to_string(n);
         int len = s.length();
-
         long long result = 0;
         long long power = 9;
 
